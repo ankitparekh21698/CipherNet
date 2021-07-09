@@ -1,4 +1,4 @@
-# CryptoNet
+# CipherNet
 ### Objective
 #### To embed a message into an image by manipulating some pixels such that the cipher is an image used to encrypt and decrypt the message.
 ### Tools
